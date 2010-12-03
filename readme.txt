@@ -31,7 +31,9 @@ Of course, please visit our Politician Popularity Widget page http://personalmon
 == Upgrade Notice ==
 This is version 1!!
 == Screenshots ==
-1. Screenshot of widget.
+1. Screenshot of widget. Images may be different depending on your wordpress theme.
+2. Screenshot of the widget's backend.
+3. Screenshot of the backend of the widget, where users can edit the name fields.
 == Credits ==
 The image is compiled by Google and this gadget author has no control over what is displayed nor the accuracy of it.
 == License ==
