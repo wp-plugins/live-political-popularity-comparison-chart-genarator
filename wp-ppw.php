@@ -17,7 +17,7 @@ You will be pretty shocked at who is more popular then who, besides being thorou
 This tool will be something your political audience will appreciate using and playing around with. 
 Install it and see your web site's interaction sky rocket!
 
-Author: Director of Personal Money Store: David Johnston
+Author: David Johnston - MoneyBlogNewz
 Author URI: http://wordpress.org/support/profile/personalmoneystore/
 Plugin URI: http://personalmoneystore.com/moneyblog/financial-gadgets-and-widgets/politician-popularity-widget/
 
