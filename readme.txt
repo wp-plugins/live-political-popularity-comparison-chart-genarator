@@ -7,7 +7,8 @@ Requires at least: 2.9.2
 Tested up to: 3.0.1
 Stable tag:  0.1
 
-A sidebar widget graph that dynamically updates providing the latest info on 1 or 2 politicians that admin inserted as default or that user selects
+Compare the popularity of politicians in a visual way with this graph generator sidebar widget. 
+You can let your visitors change who is being compared so they can see Google popularity stats in real time.
 
 == Description ==
 Compare politicians in a side by side contest where Google's search statistics show who is more popular. Not many people know that Google tracks what people are searching for and the volume of those searches. 
