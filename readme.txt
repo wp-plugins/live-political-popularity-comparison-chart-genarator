@@ -6,9 +6,7 @@ Tags: compare politicians, political popularity trends, political popularity gra
 Requires at least: 2.9.2
 Tested up to: 3.0.1
 Stable tag:  0.1
-
-Compare the popularity of politicians in a visual way with this graph generator sidebar widget. 
-You can let your visitors change who is being compared so they can see Google popularity stats in real time.
+
 
 == Description ==
 Engage visitors by letting them pick politicians & compare their grass roots political popularity visually with this graph generator sidebar widget.
