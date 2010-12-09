@@ -8,7 +8,7 @@ Plugin Name: Live Political Popularity Comparison Chart Generator Widget
 Version: 1.0
 
 
-Description: Engage visitors by letting them pick politicians & compare their grass roots political popularity visually with this graph generator sidebar widget.
+Description: Engage visitors by letting them pick politicians & compare their grass roots political popularity visually with this graph generator widget.
 
 Author: David Johnston - MoneyBlogNewz
 Author URI: http://wordpress.org/support/profile/personalmoneystore/
