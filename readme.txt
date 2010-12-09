@@ -8,8 +8,14 @@ Tested up to: 3.0.1
 Stable tag:  0.1
 
 
-== Description ==
-Engage visitors by letting them pick politicians & compare their grass roots political popularity visually with this graph generator sidebar widget.
+== Description ==
+Compare politicians in a side by side contest where Google's search statistics show who is more popular. 
+Not many people know that Google tracks what people are searching for and the volume of those searches. 
+It is easy to compare politicians in a visual way with this graph generator and see who is more popular without resorting to votes. 
+You will be pretty shocked at who is more popular then who, besides being thoroughly entertained. 
+This tool will be something your political audience will appreciate using and playing around with. 
+Install it and see your web site's interaction sky rocket!
+
 == Installation ==
 1. Upload `wp-ppw.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
